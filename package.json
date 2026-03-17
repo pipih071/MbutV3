@@ -1,6 +1,6 @@
 {
     "name": "omhcmbud-bails",
-    "version": "7.0.4",
+    "version": "7.2.0",
     "description": "Customised baileys by @RriztXflow",
     "keywords": [
         "whatsapp",
@@ -13,7 +13,7 @@
         "xeonbugbot"
     ],
     "license": "MIT",
-    "author": "dgxeon13",
+    "author": "omhcsilence",
     "type": "commonjs",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:@dgxeon/libsignal-node@1.0.1",
+        "libsignal": "npm:@omhc071/libsignal-node@latest",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
